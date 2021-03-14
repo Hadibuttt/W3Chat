@@ -1,5 +1,5 @@
 # W3Chat
- Real Time Chat Application made by using Laravel Socket & Vue also provides facility to to catch on going events like user is typing.. etc.
+ Real Time Chat Application made by using Laravel Web-Socket & Vue also provides facility to to catch on going events like user is typing.. etc.
  
  ## Usage
  - composer install
