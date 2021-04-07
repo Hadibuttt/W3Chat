@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <div class="card card-default">
-                    <div class="card-header">Your Chats</div>
+                    <div class="card-header">Chats</div>
 
                     <div class="card-body">
                         <chat-messages :messages="messages"></chat-messages>
