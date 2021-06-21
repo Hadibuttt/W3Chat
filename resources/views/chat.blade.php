@@ -22,7 +22,7 @@
             <div class="col-md-4">
                 <ul class="list-group">
                     <li class="list-group-item" v-for="user in users">
-                        @{{ user.name }} <span v-if="user.typing" class="badge badge-primary"> is typing...</span>
+                        @{{ user.name }} <span v-if="user.typing" class="badge badge-primary"> is not typing...</span>
                     </li>
                 </ul>
             </div>
